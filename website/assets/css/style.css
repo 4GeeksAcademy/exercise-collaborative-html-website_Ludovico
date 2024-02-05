@@ -14,3 +14,29 @@ body{
     width: 150px;
     height: 150px;
 }
+
+.caja-circulo{
+    justify-content:end;
+}
+.redonda {
+    border-radius: 80%;
+    width: 100%;
+    height: auto;
+    
+}
+.segundo-titulo{
+    color: grey;
+}
+.espacio-header {
+    /*padding-left: 5%;*/
+    color: black;
+}
+
+
+
+
+
+.contenido-header{
+   padding-top: 4%;
+    
+}
