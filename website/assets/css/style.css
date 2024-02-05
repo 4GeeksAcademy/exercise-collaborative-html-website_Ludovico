@@ -14,3 +14,22 @@ body{
     width: 150px;
     height: 150px;
 }
+
+
+.redonda {
+    border-radius: 80%;
+    width: 50%;
+    height: auto;
+}
+strong{
+    text-decoration: none;
+    font-weight: normal;
+    color: grey;
+}
+.espacio-header {
+    padding-left: 5%;
+}
+
+.espacio-header-texto {
+    padding-left: 5%;
+}
