@@ -15,21 +15,28 @@ body{
     height: 150px;
 }
 
-
+.caja-circulo{
+    justify-content:end;
+}
 .redonda {
     border-radius: 80%;
-    width: 50%;
+    width: 100%;
     height: auto;
+    
 }
-strong{
-    text-decoration: none;
-    font-weight: normal;
+.segundo-titulo{
     color: grey;
 }
 .espacio-header {
-    padding-left: 5%;
+    /*padding-left: 5%;*/
+    color: black;
 }
 
-.espacio-header-texto {
-    padding-left: 5%;
+
+
+
+
+.contenido-header{
+   padding-top: 4%;
+    
 }
